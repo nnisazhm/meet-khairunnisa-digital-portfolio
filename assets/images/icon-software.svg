@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="software">
+  <path d="M18 3H6C3.8 3 2 4.8 2 7v10c0 2.2 1.8 4 4 4h12c2.2 0 4-1.8 4-4V7c0-2.2-1.8-4-4-4zm2 14c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2v-7h16v7zm0-9H4V7c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v1z" fill="#ffbc5e" class="color000000 svgShape"></path>
+  <circle cx="10.9" cy="6.6" r=".8" fill="#ffbc5e" class="color000000 svgShape"></circle>
+  <circle cx="8.3" cy="6.6" r=".8" fill="#ffbc5e" class="color000000 svgShape"></circle>
+  <circle cx="5.8" cy="6.6" r=".8" fill="#ffbc5e" class="color000000 svgShape"></circle>
+</svg>
